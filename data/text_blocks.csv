@@ -1,0 +1,5 @@
+Id used for finding text block,Contents of text block. Supports markdown formatting.
+loc,text
+intro,"I am a Senior Data Analytics Manager with an extensive experience in data visualization and data science, currently pivoting into the areas of GIS, geospatial analysis, and urban planning."
+data_science_writing_aside,I regularly blog about data science and visualization on my blog: [taraskaduk.com](https://taraskaduk.com/)
+industy_experience_aside,"Only most relevant industry experience is listed. For a full list of all work experience, please visit [my LinkedIn profile](https://www.linkedin.com/in/taraskaduk/)"
