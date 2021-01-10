@@ -52,7 +52,7 @@ Aside
 <!-- ``` -->
 <!-- ![](userpic.png) -->
 
-```{r eval=FALSE}
+```{r}
 if(params$pdf_mode){
   cat("View this resume online with links at https://taraskaduk.com/resume/")
 } else {
