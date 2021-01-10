@@ -96,9 +96,9 @@ sup {
 }
 
 .skill-bar {
-  color: white;
+  color: black;
   padding: 0.1rem 0.25rem;
-  margin-top: 3px;
+  margin-top: 2px;
   position: relative;
   width: 100%;
 }
@@ -120,7 +120,7 @@ sup {
 .info-card{
   width: 220px;    
   float: left;    
-  padding: 0.5rem;
+  padding: 1rem;
   margin: 0.5rem;
   box-shadow: 1px 1px 4px black;
 }

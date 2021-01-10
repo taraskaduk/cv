@@ -52,7 +52,7 @@ Aside
 <!-- ``` -->
 <!-- ![](userpic.png) -->
 
-```{r}
+```{r eval=FALSE}
 if(params$pdf_mode){
   cat("View this resume online with links at https://taraskaduk.com/resume/")
 } else {
@@ -69,7 +69,7 @@ CV %>% print_contact_info()
 
 
 
-Language Skills {#skills}
+Languages {#skills}
 --------------------------------------------------------------------------------
 
 ```{r}
