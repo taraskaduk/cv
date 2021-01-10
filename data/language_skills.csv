@@ -1,6 +1,12 @@
 Name of language,Relative numeric level of skill
 skill,level
-English - fluent,0
-Ukrainian - native,0
-Russian - native,0
-French - elementary,0
+SQL,5
+R,4
+Power BI,5
+Tableau,3
+QGIS,2
+ ,
+English - fluent,4
+Ukrainian - native,5
+Russian - native,5
+French - elementary,1

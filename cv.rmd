@@ -69,7 +69,7 @@ CV %>% print_contact_info()
 
 
 
-Languages {#skills}
+Skills and Languages {#skills}
 --------------------------------------------------------------------------------
 
 ```{r}

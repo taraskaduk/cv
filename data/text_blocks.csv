@@ -1,5 +1,7 @@
 Id used for finding text block,Contents of text block. Supports markdown formatting.
 loc,text
-intro,"I am a data analytics and business intelligence professional with education in computer science and geography and a passion for geospatial data science. As a senior data analytics manager, my mission is creating scalable and effective data analytics and business intelligence solutions. I lead and train people in various job capacities to adopt new data tools and help them get empowered with data. As a geospatial data science enthusiast, I work on solving spatial problems with data and programming."
+intro,"I am a data analytics and business intelligence professional with education in computer science and geography and a passion for geospatial data science. 
+As a senior data analytics manager, my mission is creating scalable and effective data analytics and business intelligence solutions. I lead and train people in various job capacities to adopt new data tools and help them get empowered with data. 
+As  a geographer and geospatial data scientist, I am focused on using geocomputation with R, Python and FOSS4G to solve urban and other spatial issues"
 data_science_writing_aside,I write more about geospatial data science on my blog: [taraskaduk.com](https://taraskaduk.com/)
 industy_experience_aside,"Only most relevant industry experience is listed. For a full list of all work experience, please visit [my LinkedIn profile](https://www.linkedin.com/in/taraskaduk/)"
